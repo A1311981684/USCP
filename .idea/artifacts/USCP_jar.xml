@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="USCP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/USCP_jar</output-path>
+    <root id="root">
+      <element id="archive" name="USCP.jar">
+        <element id="module-output" name="USCP" />
+      </element>
+    </root>
+  </artifact>
+</component>
